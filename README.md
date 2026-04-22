@@ -1,5 +1,7 @@
 Global Customer Quality KPI Automation (Power BI)
+
 🎯 Executive Summary
+
 Standardized and automated customer complaint reporting across 7 international manufacturing plants. Replaced manual, error-prone Excel processes with a real-time Power BI dashboard, reclaiming critical engineering hours for high-priority quality protection and containment actions.
 
 🚀 The Hybrid Methodology (AI + Human Insight)
