@@ -30,4 +30,5 @@ Risk Mitigation: Accelerated response time to OEM complaints, preventing high-co
 Data Integrity: Eliminated "data cosmetics" and human error, providing management with 100% transparent, real-time quality metrics.
 
 🖼 Dashboard Preview
-<img width="1090" height="616" alt="image" src="https://github.com/user-attachments/assets/ed4873a9-e550-4c5e-8dd1-c078d7280ee0" />
+<img width="1090" height="616" alt="image" src="https://github.com/user-attachments/assets/78434e44-75eb-46c6-ae56-fa93ebd2d9ad" />
+
